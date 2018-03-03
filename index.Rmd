@@ -1,0 +1,10 @@
+---
+title: "Welcome to My Website"
+author:  "[Paul Ervin](https://github.com/aervinp)"
+output:
+  html_document:
+    fig_width: 1
+---
+
+----
+
